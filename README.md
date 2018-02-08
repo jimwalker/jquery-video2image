@@ -1,17 +1,17 @@
 # Video2Image
-## jQuery plugin for viewing/playing/stoping a webcam with image capture
-
-This plugin is used with [jQuery](https://jquery.com/)
-
+## jQuery plugin for viewing/playing/stopping a webcam with image capture
 ###### Video capture may not work in all browsers
+This plugin requires [jQuery](https://jquery.com/)
+
+#### Do not try to run locally, browser permissions require running with web server only
 
 ### Package Manager
 This plugin can be downloaded using [npm](https://www.npmjs.com/package/jquery-video2image)
 
 `npm install jquery-video2image`
 
- 
- ## Usage
+
+## Usage
 
 **selector** should be a `<canvas>` element you have added to the page.
 
