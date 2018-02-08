@@ -1,0 +1,35 @@
+{
+  "name": "jquery-video2image",
+  "version": "1.0.0",
+  "description": "jQuery plugin for image capture from video/webcam as well as view, start, stop of video",
+  "main": "video2image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 8001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimwalker/videocanvas.git"
+  },
+  "files": [
+    "index.html"
+],
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "video",
+    "webcam",
+    "image",
+    "capture",
+    "video-image-capture"
+  ],
+  "author": "Jim Walker <jim.walker@gmail.com> (https://github.com/jimwalker/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimwalker/videocanvas/issues"
+  },
+  "homepage": "https://github.com/jimwalker/videocanvas#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
