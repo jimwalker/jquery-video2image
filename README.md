@@ -3,9 +3,16 @@
 
 ###### This plugin may not work in all browsers
 
-This plugin is used with jQuery which can be downloaded at:
+### Package Manager
+This plugin can be downloaded using [npm](https://www.npmjs.com/package/jquery-video2image)
 
- - https://jquery.com/
+`npm install jquery-video2image`
+
+
+
+This plugin is used with [jQuery](https://jquery.com/)
+ 
+ ## Usage
 
 **selector** should be a `<canvas>` element you have added to the page.
 
