@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jimwalker/videocanvas.git"
+    "url": "git+https://github.com/jimwalker/jquery-video2image.git"
   },
   "files": [
     "index.html"
@@ -26,9 +26,9 @@
   "author": "Jim Walker <jim.walker@gmail.com> (https://github.com/jimwalker/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jimwalker/videocanvas/issues"
+    "url": "https://github.com/jimwalker/jquery-video2image/issues"
   },
-  "homepage": "https://github.com/jimwalker/videocanvas#readme",
+  "homepage": "https://github.com/jimwalker/jquery-video2image#readme",
   "dependencies": {
     "http-server": "^0.11.1"
   }
