@@ -10,6 +10,12 @@ This plugin can be downloaded using [npm](https://www.npmjs.com/package/jquery-v
 
 `npm install jquery-video2image`
 
+Video requires a webserver, you may use the one in this package:
+
+`npm start`
+
+Then open a browser at http://localhost:8001/
+ 
  
  ## Usage
 
