@@ -1,6 +1,6 @@
 {
   "name": "jquery-video2image",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "jQuery plugin for image capture from video/webcam as well as view, start, stop of video",
   "main": "video2image.js",
   "scripts": {
